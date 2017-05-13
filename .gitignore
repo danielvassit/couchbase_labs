@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+Thumbs.db*
+
+app/restful-angularjs-nodejs/angular/public
+app/restful-angularjs-nodejs/angular/dist
+app/restful-angularjs-nodejs/angular/tmp
